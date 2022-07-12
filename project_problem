@@ -1,0 +1,8 @@
+ # İş Problemi
+Bir şirket teklif verme türlerinden "maximum bidding"'e 
+alternatif olarak yeni bir teklif türü olan "average bidding"’in kendisine 
+daha fazla dönüşüm getirip getirmediğini anlamak için bir A/B 
+testi yapmak ister.
+Bu şirket için nihai başarı ölçütü Purchase'dır. Bu 
+nedenle, istatistiksel testler için Purchase metriğine 
+odaklanıldı. 
